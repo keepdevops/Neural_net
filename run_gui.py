@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import tkinter as tk
-from data_visualization_gui import DataVisualizationGUI
+from data_visualization.data_visualization_gui import DataVisualizationGUI
 
 def launch_gui():
     """Launch the data visualization GUI application"""
